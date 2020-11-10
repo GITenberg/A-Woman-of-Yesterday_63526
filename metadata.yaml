@@ -1,0 +1,29 @@
+_repo: A-Woman-of-Yesterday_63526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, Caroline Atwater
+    birthdate: 1853
+    deathdate: 1939
+    gutenberg_agent_id: '52492'
+    url: http://www.gutenberg.org/2009/agents/52492
+description: ''
+gutenberg_issued: '2020-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63526'
+  lccn: '00006272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- 19th century -- Fiction'
+- !lcsh 'Religion -- Fiction'
+- !lcsh 'Children of clergy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- GITenberg
+title: A Woman of Yesterday
+url: http://www.gutenberg.org/ebooks/63526
